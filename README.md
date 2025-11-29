@@ -31,6 +31,13 @@ It is best to use <a href="https://docs.anaconda.com/anaconda/install/"  title="
 Pick your OS below and follow the steps that will enable you to use NeuroBCDA programs.
 <br>
 
+### Download the SNN Model first
+
+Replace the file in `programs/ml-models/snn-birds-empty-model.pth.txt` with a proper model `snn-birds-model.pth` downloaded from here: https://huggingface.co/neuromorphicism/snn-birds-model-v1/tree/main
+
+This `ml-models` directory should only contain: `programs/ml-models/snn-birds-model.pth`
+<br>
+
 ### Linux
 
 Download this repository and open the terminal window in its folder.

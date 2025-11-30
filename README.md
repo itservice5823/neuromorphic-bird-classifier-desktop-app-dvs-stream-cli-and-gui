@@ -193,6 +193,12 @@ CUSTOMTKINTER (MIT license): [https://github.com/tomschimansky/customtkinter](ht
 
 <br>
 
+## NeuroBCDA Logo
+
+The NeuroBCDA logo might look like genAI but it is not. I based it on a Japanese ichō-zuru mon. The wings of a crane (zuru - żuraw) look almost like a brain in it and their sides look like ravens with neuron-eyes. This logo visualizes a process of spiking thoughts deciding which bird is which based on the retina's raw vision data.
+
+<br>
+
 ## NeuroBCDA License
 
 GNU General Public License (GPL) v3. See [LICENSE](LICENSE) for license details.

